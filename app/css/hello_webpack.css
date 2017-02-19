@@ -1,0 +1,16 @@
+p {
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-shadow:3px 3px 2px #0000ff;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+img:hover {
+  width: 350px;
+  height: 350px;
+}
